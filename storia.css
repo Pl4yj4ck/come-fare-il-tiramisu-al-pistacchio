@@ -1,0 +1,21 @@
+#titolo_a{
+    font-size:45px;
+    margin: 25px;
+    margin-left: 75px;
+}
+
+#cerchi_a{
+    width: 25px;
+    height:25px;
+    border-radius: 100%;
+    background-color: black;
+    position: relative;
+    bottom: 63px;
+    left: 35px;
+}
+
+#testo_a{
+    margin-top: -40px;
+    margin-left: 75px;
+}
+
